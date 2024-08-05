@@ -14,7 +14,7 @@ This project is a Java-based application that provides a graphical user interfac
   The application includes robust error handling to manage invalid inputs and cases where the tangent function is undefined, providing clear and helpful error messages to the user.
 
 - **Code Quality and Versioning:**
-  The project adheres to the Google Java Style Guide to maintain high code quality. Semantic versioning is used to manage and document changes, with the current version being `1.3`.
+  The project adheres to the Google Java Style Guide to maintain high code quality. Semantic versioning is used to manage and document changes, with the current version being `3.0`.
 
 ## Usage
 
