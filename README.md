@@ -18,15 +18,14 @@ This project is a Java-based application that provides a graphical user interfac
 
 ## Directory Structure
 
-src/
-├── version1/
-│   └── TanFunction.java
-├── version2/
-│   └── TanFunctionGUI.java
-└── version3/
-    └── TanFunctionGui.java
-README.md
-
+- `src/`
+  - `Version1/`
+    - `TanFunction.java`
+  - `Version2/`
+    - `TanFunctionGUI.java`
+  - `Version3/`
+    - `TanFunctionGui.java`
+- `README.md`
 
 ## Usage
 
