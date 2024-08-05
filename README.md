@@ -16,6 +16,18 @@ This project is a Java-based application that provides a graphical user interfac
 - **Code Quality and Versioning:**
   The project adheres to the Google Java Style Guide to maintain high code quality. Semantic versioning is used to manage and document changes, with the current version being `3.0`.
 
+## Directory Structure
+
+src/
+├── version1/
+│   └── TanFunction.java
+├── version2/
+│   └── TanFunctionGUI.java
+└── version3/
+    └── TanFunctionGui.java
+README.md
+
+
 ## Usage
 
 1. **Compile the Code:**
