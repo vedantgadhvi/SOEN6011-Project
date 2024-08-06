@@ -1,7 +1,10 @@
-package Version3;
+package test;
 
 import org.junit.jupiter.api.Test;
-import static org.junit.jupiter.api.Assertions.*;
+import v2.TanFunctionGui;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertThrows;
 
 public class TanFunctionGuiTest {
 
