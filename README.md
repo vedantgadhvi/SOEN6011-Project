@@ -14,19 +14,26 @@ This project is a Java-based application that provides a graphical user interfac
   The application includes robust error handling to manage invalid inputs and cases where the tangent function is undefined, providing clear and helpful error messages to the user.
 
 - **Code Quality and Versioning:**
-  The project adheres to the Google Java Style Guide to maintain high code quality. Semantic versioning is used to manage and document changes, with the current version being `3.0`.
+  The project adheres to the Google Java Style Guide to maintain high code quality. Semantic versioning is used to manage and document changes, with the current version being `2.1.3`.
 
 ## Directory Structure
 
 - `src/`
   - `test/`
     - `TanFunctionGuiTest.java`
-  - `version1/`
-    - `TanFunction.java`
-  - `version2/`
-    - `TanFunctionGUI.java`
-  - `version3/`
-    - `TanFunctionGui.java`
+  - `v1/`
+    - `v1.0.0`
+      - `TanFunction.java`
+  - `v2/`
+    - `v2.0.0`
+      - `TanFunctionGUI.java`
+    - `v2.1.0`
+      - `v2.1.1`
+        - `TanFunctionGui.java`
+      - `v2.1.2`
+        - `TanFunctionGui.java`
+      - `v2.1.3`
+        - `TanFunctionGui.java`
 - `README.md`
 
 ## Usage
