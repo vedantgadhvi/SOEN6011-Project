@@ -22,17 +22,17 @@ This project is a Java-based application that provides a graphical user interfac
   - `test/`
     - `TanFunctionGuiTest.java`
   - `v1/`
-    - `v1.0.0`
+    - `v1.0.0/`
       - `TanFunction.java`
   - `v2/`
-    - `v2.0.0`
+    - `v2.0.0/`
       - `TanFunctionGUI.java`
-    - `v2.1.0`
-      - `v2.1.1`
+    - `v2.1.0/`
+      - `v2.1.1/`
         - `TanFunctionGui.java`
-      - `v2.1.2`
+      - `v2.1.2/`
         - `TanFunctionGui.java`
-      - `v2.1.3`
+      - `v2.1.3/`
         - `TanFunctionGui.java`
 - `README.md`
 
@@ -55,5 +55,5 @@ This project not only serves as a practical tool for calculating the tangent of 
 
 ## Versions
 
-- **3**
+- **5**
 
