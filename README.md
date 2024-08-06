@@ -53,7 +53,7 @@ This project is a Java-based application that provides a graphical user interfac
 
 This project not only serves as a practical tool for calculating the tangent of an angle but also as an educational example of implementing complex mathematical functions in Java, developing a GUI application, and adhering to best coding practices.
 
-## Versions
+## Latest Version
 
-- **5**
+- **2.1.3**
 
